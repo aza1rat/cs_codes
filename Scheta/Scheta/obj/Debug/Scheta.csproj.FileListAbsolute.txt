@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Scheta\Scheta\bin\Debug\Scheta.exe.config
+C:\Users\Asus\Desktop\Scheta\Scheta\bin\Debug\Scheta.exe
+C:\Users\Asus\Desktop\Scheta\Scheta\bin\Debug\Scheta.pdb
+C:\Users\Asus\Desktop\Scheta\Scheta\obj\Debug\Scheta.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Scheta\Scheta\obj\Debug\Scheta.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Scheta\Scheta\obj\Debug\Scheta.exe
+C:\Users\Asus\Desktop\Scheta\Scheta\obj\Debug\Scheta.pdb
+D:\2021\new\Scheta\Scheta\bin\Debug\Scheta.exe.config
+D:\2021\new\Scheta\Scheta\bin\Debug\Scheta.exe
+D:\2021\new\Scheta\Scheta\bin\Debug\Scheta.pdb
+D:\2021\new\Scheta\Scheta\obj\Debug\Scheta.csprojAssemblyReference.cache
+D:\2021\new\Scheta\Scheta\obj\Debug\Scheta.csproj.CoreCompileInputs.cache
+D:\2021\new\Scheta\Scheta\obj\Debug\Scheta.exe
+D:\2021\new\Scheta\Scheta\obj\Debug\Scheta.pdb
